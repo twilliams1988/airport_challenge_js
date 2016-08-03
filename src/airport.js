@@ -1,6 +1,6 @@
 function Airport() {
   this.planes = [];
-};
+}
 
 Airport.prototype = {
   // planes: function() {
